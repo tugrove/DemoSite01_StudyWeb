@@ -78,6 +78,13 @@ a:active {
     width: auto;
 }
 
+/* article */
+#pageMain .articleDetail {
+    width: 68%;
+    margin: 0 auto;
+    background: #fff;
+}
+
 /* section paragraph */
 /* -------------------------------------------- */
 
