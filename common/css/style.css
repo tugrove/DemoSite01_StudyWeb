@@ -54,6 +54,19 @@ a:active {
     opacity: .7;
 }
 
+/* global navi */
+#pageHead .globalNavi ul {
+    margin-left: 50%;
+    margin-bottom: 1em;
+}
+#pageHead .globalNavi ul li {
+    margin-right: 2em;
+    float: left;
+    font-size: 1.1em;
+    font-weight: 700;
+}
+
+
 /* page footer */
 /* ============================================ */
 
