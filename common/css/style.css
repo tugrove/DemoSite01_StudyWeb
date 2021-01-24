@@ -15,12 +15,18 @@ body {
     font-family: 'Yantramanav', sans-serif;
 }
 
+/* link */
+a:hover {
+    text-decoration: underline;
+}
+
 /* clear fix */
 .clearfix {
     content: "";
     clear: both;
     display: block;
 }
+
 
 /* page header */
 /* ============================================ */
