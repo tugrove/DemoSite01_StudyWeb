@@ -77,3 +77,14 @@ a:active {
 #pageMain .topBanner {
     width: auto;
 }
+
+/* section paragraph */
+/* -------------------------------------------- */
+
+/* page title */
+#sec_paragraph .pageTitle {
+    margin-top: 2.7em;
+    font-size: 1.8em;
+    font-weight: 900;
+    text-align: center;
+}
