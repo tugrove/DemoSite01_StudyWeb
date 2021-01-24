@@ -24,7 +24,7 @@ a:active {
 }
 
 /* clear fix */
-.clearfix {
+.clearfix:after {
     content: "";
     clear: both;
     display: block;
