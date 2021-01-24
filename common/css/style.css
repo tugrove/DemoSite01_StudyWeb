@@ -34,6 +34,13 @@ a:active {
 /* page header */
 /* ============================================ */
 
+/* page head */
+#pageHead {
+    width: auto;
+    background:#fff;
+}
+
+
 /* page footer */
 /* ============================================ */
 
