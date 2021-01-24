@@ -1,0 +1,32 @@
+/* stylesheet for DemoSite01_StudyWeb */
+
+/* global settings */
+/* ============================================ */
+
+/* charset */
+@charset "UTF-8";
+
+/* import font-family */
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@500;700;900&display=swap');
+
+/* basic settings */
+body {
+    color: #303030;
+    font-family: 'Yantramanav', sans-serif;
+}
+
+/* clear fix */
+.clearfix {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+/* page header */
+/* ============================================ */
+
+/* page footer */
+/* ============================================ */
+
+/* page main */
+/* ============================================ */
