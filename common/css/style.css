@@ -50,7 +50,9 @@ a:active {
     background: #f5f5f5;
     border-radius: 50%;
 }
-
+#pageHead .siteLogo:hover {
+    opacity: .7;
+}
 
 /* page footer */
 /* ============================================ */
