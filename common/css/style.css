@@ -72,3 +72,8 @@ a:active {
 
 /* page main */
 /* ============================================ */
+
+/* top banner */
+#pageMain .topBanner {
+    width: auto;
+}
