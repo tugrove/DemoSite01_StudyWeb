@@ -71,6 +71,18 @@ a:active {
 /* page footer */
 /* ============================================ */
 
+#pageFoot {
+    margin-top: 4.9em;
+    background: #363636;
+}
+#pageFoot #copyright {
+    font-size: 1.1em;
+    text-align: center;
+    padding-top: 1em;
+    color: #ccc;
+}
+
+
 /* page main */
 /* ============================================ */
 
