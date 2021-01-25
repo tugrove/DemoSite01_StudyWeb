@@ -116,19 +116,17 @@ a:active {
 }
 .articleDetail .demoTable tr > * {
     vertical-align: middle;
+    height: 2.2em;
 }
-.articleDetail .demoTable thead tr > * {
-    height: 2.5em;
+.articleDetail .demoTable th {
+    font-weight: 500;
 }
 .articleDetail .demoTable thead th:first-child {
     font-size: 1.4em;
-    font-weight: 500;
     color: orange;
 }
-.articleDetail .demoTable tbody tr > * {
-    height: 1.8em;
-}
 .articleDetail .demoTable tbody tr th {
+    font-size: 1.1em;
     color: brown;
 }
 
