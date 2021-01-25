@@ -114,6 +114,24 @@ a:active {
 #pageMain .articleDetail .demoTable tr{
     border-bottom: dotted 1px #303030;
 }
+#pageMain .articleDetail .demoTable tr > * {
+    vertical-align: middle;
+}
+#pageMain .articleDetail .demoTable thead tr > * {
+    height: 2.5em;
+}
+#pageMain .articleDetail .demoTable thead th:first-child {
+    font-size: 1.4em;
+    font-weight: 500;
+    color: orange;
+}
+#pageMain .articleDetail .demoTable tbody tr > * {
+    height: 1.8em;
+}
+#pageMain .articleDetail .demoTable tbody tr th {
+    color: brown;
+}
+
 
 /* section */
 #pageMain .articleDetail #sec_paragraph,
