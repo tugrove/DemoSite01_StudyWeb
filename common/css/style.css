@@ -71,6 +71,14 @@ a:active {
 /* page footer */
 /* ============================================ */
 
+#pageFoot {
+    background: #303030;
+}
+#pageFoot #copyright {
+    color: #f5f5f5;
+}
+
+
 /* page main */
 /* ============================================ */
 
