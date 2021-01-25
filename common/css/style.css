@@ -112,7 +112,7 @@ a:active {
     width: 100%;
 }
 .articleDetail .demoTable tr{
-    border-bottom: dotted 1px #303030;
+    border-bottom: dotted 1px #ccc;
 }
 .articleDetail .demoTable tr > * {
     vertical-align: middle;
