@@ -101,6 +101,15 @@ a:active {
     letter-spacing: .02em;
 }
 
+/* table */
+#pageMain .articleDetail .demoTable {
+    width: 100%;
+    background: #f5f5f5;
+}
+#pageMain .articleDetail .demoTable tr{
+    border-bottom: dotted 1px #303030;
+}
+
 /* section paragraph */
 #pageMain .articleDetail #sec_paragraph {
     margin-top: 4.9em;
