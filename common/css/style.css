@@ -116,7 +116,8 @@ a:active {
 }
 .articleDetail .demoTable tr > * {
     vertical-align: middle;
-    height: 2.2em;
+    height: 2.1em;
+    font-size: 1.1em;
 }
 .articleDetail .demoTable th {
     font-weight: 500;
@@ -126,7 +127,6 @@ a:active {
     color:  #e29742;
 }
 .articleDetail .demoTable tbody tr th {
-    font-size: 1.1em;
     color: #978989
 }
 
