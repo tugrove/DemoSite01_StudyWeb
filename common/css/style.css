@@ -72,6 +72,7 @@ a:active {
 /* ============================================ */
 
 #pageFoot {
+    margin-top: 4.9em;
     background: #363636;
 }
 #pageFoot #copyright {
