@@ -123,13 +123,12 @@ a:active {
 }
 .articleDetail .demoTable thead th:first-child {
     font-size: 1.4em;
-    color: orange;
+    color:  #e29742;
 }
 .articleDetail .demoTable tbody tr th {
     font-size: 1.1em;
-    color: brown;
+    color: #978989
 }
-
 
 /* section */
 #pageMain .articleDetail #sec_paragraph,
