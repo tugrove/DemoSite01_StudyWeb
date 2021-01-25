@@ -72,13 +72,13 @@ a:active {
 /* ============================================ */
 
 #pageFoot {
-    background: #303030;
+    background: #363636;
 }
 #pageFoot #copyright {
     font-size: 1.1em;
     text-align: center;
     padding-top: 1em;
-    color: #f5f5f5;
+    color: #ccc;
 }
 
 
