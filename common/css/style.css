@@ -153,6 +153,35 @@ a:active {
     color: #978989
 }
 
+/* form */
+.articleDetail form{
+    width: 50%;
+    margin: 0 auto;
+}
+.articleDetail form > * {
+    display: block;
+    font-size: 1.2em;
+}
+.articleDetail form .inputArea {
+    width: 100%;
+    background: #f5f5f5;
+}
+.articleDetail form input.inputArea {
+    padding: 1em .5em;
+}
+.articleDetail form textarea.inputArea {
+    padding: .5em;
+}
+.articleDetail form .inputArea::placeholder {
+    color: #888;
+}
+.articleDetail form .sendButton {
+    float: right;
+    padding: .8em 1.5em;
+    background: #363636;
+    color: #ccc;
+}
+
 /* section */
 #pageMain .articleDetail #sec_paragraph,
 #pageMain .articleDetail #sec_table {
