@@ -156,6 +156,7 @@ a:active {
 /* form */
 .articleDetail form{
     width: 50%;
+    min-width: 20em;
     margin: 0 auto;
 }
 .articleDetail form > * {
