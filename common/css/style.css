@@ -78,7 +78,7 @@ a:active {
 #pageFoot #copyright {
     font-size: 1.1em;
     text-align: center;
-    padding-top: 1em;
+    padding: 1em 0;
     color: #ccc;
 }
 
